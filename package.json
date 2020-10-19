@@ -1,0 +1,14 @@
+{
+  "name": "circleci-javascript-example",
+  "author": "tomoya < tomoya.ton@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "TZ='Asia/Tokyo' jest"
+  },
+  "devDependencies": {
+    "jest": "26.1.0"
+  },
+  "dependencies": {
+    "yarn": "^1.22.10"
+  }
+}
