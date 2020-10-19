@@ -1,4 +1,4 @@
-// function double
+// 関数 double
 function double(x){
   return x * 2;
 }
